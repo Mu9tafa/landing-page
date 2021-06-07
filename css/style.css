@@ -547,14 +547,12 @@ body {
         font-size: 14px;
     }
     .testimonial h2 {
-        margin-bottom: 30px;
+        margin-bottom: 20px;
     }
     .testimonial q {
-        margin: 0 auto 30px;
+        margin: 0 auto 20px;
     }
-    .testimonial h3 {
-        margin-bottom: 50px;
-    }
+    
 }
 @media(max-width:375px) { 
     .header .bxslider li {
@@ -567,9 +565,7 @@ body {
     .header .bxslider li p {
         font-size: 12px;
     }
-    .testimonial h3 {
-        margin-bottom: 10px;
-    }
+   
 }
 /* End media query
 **********************************************************/
