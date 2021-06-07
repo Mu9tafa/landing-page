@@ -564,6 +564,9 @@ body {
     .header .bxslider li p {
         font-size: 12px;
     }
+    .testimonial h3 {
+        margin-bottom: 10px;
+    }
 }
 /* End media query
 **********************************************************/
